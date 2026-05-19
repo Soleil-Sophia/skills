@@ -50,6 +50,15 @@
       "skills": [
         "./skills/claude-api"
       ]
+    },
+    {
+      "name": "sales-skills",
+      "description": "Sales productivity skills including call preparation with CRM context, attendee research, and agenda building",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/sales-call-prep"
+      ]
     }
   ]
 }
