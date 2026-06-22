@@ -18,7 +18,8 @@
         "./skills/xlsx",
         "./skills/docx",
         "./skills/pptx",
-        "./skills/pdf"
+        "./skills/pdf",
+        "./skills/pdf-summarizer"
       ]
     },
     {
@@ -37,6 +38,7 @@
         "./skills/skill-creator",
         "./skills/slack-gif-creator",
         "./skills/theme-factory",
+        "./skills/translation",
         "./skills/web-artifacts-builder",
         "./skills/webapp-testing"
       ]

@@ -1,6 +1,6 @@
 ---
 name: pdf-summarizer
-description: Use this skill whenever the user wants to summarize a PDF or any document. This includes executive summaries, key-point extractions, section-by-section breakdowns, and multi-document comparisons. Trigger when the user asks to summarize, condense, extract key points from, or give an overview of a PDF or other document. Works with research papers, reports, contracts, manuals, presentations, and more.
+description: Use this skill whenever the user wants to summarize a PDF or extract key information from PDF-derived text. This includes executive summaries, key-point extractions, section-by-section breakdowns, and multi-document PDF comparisons. Trigger when the user asks to summarize, condense, extract key points from, or give an overview of a PDF (or pasted text clearly taken from a PDF). Prefer this skill over `pdf` when the user’s primary intent is summarization rather than file handling or OCR.
 ---
 
 # PDF Summarizer Skill
